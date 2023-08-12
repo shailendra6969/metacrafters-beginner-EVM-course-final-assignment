@@ -1,7 +1,9 @@
 Solidity Smart Contracts Repository
+
 Welcome to the Solidity Smart Contracts repository! This repository contains a collection of simple smart contracts, including the MyToken contract, which is an implementation of a basic token contract using the ERC20 standard.
 
 Contracts Included
+
 MyToken
 Contract Name: MyToken
 Version: 1.0.0
@@ -33,6 +35,7 @@ Fork the repository.
 Create a new branch for your feature/fix.
 Make your changes and test thoroughly.
 Submit a pull request, describing the changes you've made.
+
 License
 All contracts in this repository are released under an UNLICENSED/MIT license. Refer to the individual contract files for more details.
 
